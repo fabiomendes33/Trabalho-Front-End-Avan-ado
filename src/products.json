@@ -1,0 +1,53 @@
+{
+    "beauty": [
+        {
+            "id": 1,
+            "title": "Loção Hidratante NIVEA Milk Pele Seca a Extra Seca 400ml",
+            "description": "A Loção Hidratante NIVEA Milk hidrata profundamente a pele e oferece um cuidado intensivo. Tem 2x mais óleo de amendoas, nutrindo intensamente por 48h. Garanta o seu!",
+            "price": 16.99,
+            "rating": 4.8,
+            "brand": "NIVEA",
+            "category": "beleza",
+            "image": [
+                "https://images-americanas.b2w.io/produtos/01/00/img/7011/0/7011033_3GG.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Shampoo 350ML + condicionador 175ML pantene hidratação",
+            "description": "Pantene traz uma exclusiva fórmula desenvolvida com a ciência Pro-V para definir e selar a cutícula de cada fio de cabelo mantendo o penteado liso que você adora.",
+            "price": 19.99,
+            "rating": 4.8,
+            "brand": "Pantene",
+            "category": "beleza",
+            "image": [
+                "https://images-americanas.b2w.io/produtos/1442451634/imagens/shampoo-350ml-condicionador-175ml-pantene-hidratacao/1442451634_1_xlarge.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Perfume Paco Rabanne 1 Million Masculino Eau de Toilette",
+            "description": "Perfume Paco Rabanne 1 Million Masculino Eau de ToiletteSobre a fragrância 1 Million é o perfume importado masculino icônico de Paco Rabanne. O maior best-seller da perfumaria masculina. Seja flamejante! ",
+            "price": 819.00,
+            "rating": 4.5,
+            "brand": "Paco Rabanne",
+            "category": "beleza",
+            "image": [
+                "https://images-americanas.b2w.io/produtos/3195700031/imagens/perfume-paco-rabanne-1-million-masculino-eau-de-toilette/3195700057_3_xlarge.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Base Matte Boca Rosa Beauty By Payot Cor 1 Maria",
+            "description": "A Base Mate Perfect Boca Rosa Beauty by Payot é uma base de alta cobertura que proporciona um acabamento mate sem deixar a pele ressecada ou craquelada. Desliza facilmente na pele e proporciona uma cobertura perfeita.",
+            "price": 51.00,
+            "rating": 4.8,
+            "brand": "Boca Rosa",
+            "category": "beleza",
+            "image": [
+                "https://images-americanas.b2w.io/produtos/1609749847/imagens/base-mate-perfect-payot-boca-rosa-beauty/1609749919_1_xlarge.jpg"
+            ]
+        }
+
+    ]
+}
