@@ -27,10 +27,14 @@ $ npm start
 
 Abra o [http://localhost:3000/#/](http://localhost:3000/#/) no navegador.
 
-PROJETO NO FIGMA
+PROJETO DO FIGMA
 
-Para executar o projeto Figma tera que abrir o link logo abaixo e executa - lo de maneira que voce vai ver o projeto que foi criado wireframe de um celular IPhone.
+Para executar o projeto Figma terá que abrir o link logo abaixo e executar - da maneira que você vai ver o projeto que foi criado wireframe de um celular IPhone.
 
-link do Projeto: https://www.figma.com/file/BNqjkO7QbK1x4hVjRsqGVN/PROJETO-PUC-RIO-2023?type=design&node-id=16%3A22&mode=design&t=464pTNQL2oAUwIzk-1
+link do Projeto: https://www.figma.com/file/BNqjkO7QbK1x4hVjRsqGVN/PROJETO-PUC-RIO-2023?type=design&node-id=16% 3A22&mode=design&t=464pTNQL2oAUwIzk-1 OU
+
+https://www.figma.com/file/BNqjkO7QbK1x4hVjRsqGVN/PROJETO-PUC-RIO-2023?type=design&node-id=16%3A22&mode=design&t=kayBCCNfiWgbn2ac-1
+
+Depois de abrir o link no Figma você tem que abrir o zoom 50% e depois apertar Ctrl Alt + ou RUN para assim você ver o Projeto em Serviço.
 
 Trabalho Atualizado de Front End, dentro dos Padroes da Puc RIO.
